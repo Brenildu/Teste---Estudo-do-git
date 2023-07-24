@@ -42,3 +42,11 @@ __Melhoria 1__, _Melhoria 2_
 Contribuidor principal: https://www.github.com/Brenildu
 
 [![Vaquinha](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-N4sSPH7qh_dcPNblTLA3MDuOlc4yzEqQSA&usqp=CAU)](https://www.github.com/Brenildu)
+
+## Código Função Soma
+
+```javaScript
+function soma(a,b){
+    return a+b;
+}
+```
