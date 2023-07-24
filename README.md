@@ -40,3 +40,5 @@ __Melhoria 1__, _Melhoria 2_
 [Google](https://www.google.com)
 
 Contribuidor principal: https://www.github.com/Brenildu
+
+[![Vaquinha](img/vaquinha.jpg)](https://www.github.com/Brenildu)
