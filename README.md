@@ -34,3 +34,7 @@ __Melhoria 1__, _Melhoria 2_
 ## Imagem Externa
 
 ![Link da imgagem](https://img.freepik.com/vetores-premium/icone-de-fezes-de-vaca-proibido-icone-engracado-com-proibicao-de-deixar-coco-de-gado_542399-1880.jpg)
+
+## Links Interessantes:
+
+[Google](https://www.google.com)
