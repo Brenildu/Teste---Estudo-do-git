@@ -29,7 +29,7 @@ __Melhoria 1__, _Melhoria 2_
 
 ## Imagem Local
 
-![Entrada proibida](entrada_proibida.png)
+![Entrada proibida](img/entrada_proibida.png)
 
 ## Imagem Externa
 
