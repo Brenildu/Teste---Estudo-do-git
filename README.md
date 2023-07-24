@@ -29,4 +29,8 @@ __Melhoria 1__, _Melhoria 2_
 
 ## Imagem Local
 
-![Entrada proibida](entrada_poibida.png)
+![Entrada proibida](entrada_proibida.png)
+
+## Imagem Externa
+
+![Link da imgagem](https://img.freepik.com/vetores-premium/icone-de-fezes-de-vaca-proibido-icone-engracado-com-proibicao-de-deixar-coco-de-gado_542399-1880.jpg)
