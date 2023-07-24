@@ -1,2 +1,7 @@
-# ecomerce_empresa_x
-Realizando criação de repositório junto com o exemplo das aulas
+# E-comemrce_empresa_x
+
+Vamos criar um ecommerce de teste para empresa ficticia
+
+## Funcionalidades:
+
+Checkout, Tela do produto, Catálogo, Home com banner    
